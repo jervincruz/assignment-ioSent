@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular10example-calculator"
+  "defaultProject": "angular10example-calculator",
+  "cli": {
+    "analytics": false
+  }
 }
